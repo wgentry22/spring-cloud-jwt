@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-cloud-jwt-server
+  cloud:
+    config:
+      uri: http://localhost:8888
